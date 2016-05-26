@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>excludedItems</key>
+		<array>
+			<string>D4AFEF15-5A98-40DD-917F-FE45A1B71492</string>
+			<string>5DF0D2D8-1C7A-420C-8031-C1686C7A6943</string>
+		</array>
+		<key>items</key>
+		<array/>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>denizen_’s Bundle</string>
+	<key>ordering</key>
+	<array>
+		<string>2A5C1E9D-96B4-4761-9B37-D989B5F96183</string>
+		<string>5DF0D2D8-1C7A-420C-8031-C1686C7A6943</string>
+		<string>D4AFEF15-5A98-40DD-917F-FE45A1B71492</string>
+	</array>
+	<key>uuid</key>
+	<string>EA96A87A-605C-4541-B4B6-4F558A23C2A8</string>
+</dict>
+</plist>

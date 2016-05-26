@@ -1,0 +1,7 @@
+[
+{
+    "id" : "DenizenUpdater",
+    "caption" : "Update denizen library",
+    "command" : "update_denizen"
+}
+]
